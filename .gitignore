@@ -1,0 +1,25 @@
+# Android Studio specific files
+/.idea/
+/.gradle/
+/local.properties
+*.iml
+
+# Build files
+/build/
+/app/build/
+/*.apk
+/*.aab
+
+# Gradle files
+/.gradle/
+/gradle/
+/out/
+
+# Miscellaneous
+*.log
+*.DS_Store
+*.class
+*.swp
+*.swo
+*.swn
+
